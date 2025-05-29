@@ -33,8 +33,8 @@ Gosto de criar soluções práticas com um toque criativo. Já participei em vá
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartimCaldeira&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartimCaldeira&layout=compact&theme=tokyonight)
 
 ---
 
