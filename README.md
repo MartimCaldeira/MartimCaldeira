@@ -41,7 +41,7 @@ Gosto de criar soluções práticas com um toque criativo. Já participei em vá
 ## 📫 Contacta-me
 
 - ✉️ Email: martim.neg@gmail.com
-- 
+  
 ---
 
 > “Não deixes que o medo de falhar te impeça de tentar algo grande.” 🚀  
